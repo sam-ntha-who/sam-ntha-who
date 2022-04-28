@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam-ntha-who
-- 👀 I’m interested in creating new things!
 - 🌱 I’m currently learning java via Grand Circus Bootcamp
+
 
 
 <!---

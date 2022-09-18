@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sam-ntha-who
-- 🌱 I’m currently learning java via Grand Circus Bootcamp
+- 🌱 I’m almost finished with the Java Afterhours Bootcamp at Grand Circus
+
 
 
 

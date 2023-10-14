@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sam-ntha-who
-- 🌱 I’m almost finished with the Java Afterhours Bootcamp at Grand Circus
-
-
+- Hey.
+- Working on new code projects
 
 
 <!---

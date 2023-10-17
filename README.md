@@ -1,5 +1,4 @@
-- Hey.
-- Working on new code projects
+- Working on new code projects :)
 
 
 <!---
